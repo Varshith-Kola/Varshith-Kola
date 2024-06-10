@@ -23,8 +23,6 @@
 <a href="https://linkedin.com/in/varshith-kola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshith kola" height="30" width="40" /></a>
 <a href="https://instagram.com/varshith_kola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varshith_kola" height="30" width="40" /></a>
 <a href="https://twitter.com/varshithkola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varshithkola" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/varshithkola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varshithkola" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varshithkola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varshithkola" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
